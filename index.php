@@ -31,9 +31,9 @@
                                     <h1>A</h1>
                                 </td>
                                 <td>
-                                    <input class="input-lg" id="input-size-a" type="number" style="height:60px;font-size:50px">                                 </td>
+                                    <input class="input-lg" id="input-size-a" type="number" style="height:60px;font-size:50px;width:150px">                                 </td>
                                 <td>
-                                    <input class="input-lg" id="input-quan-a" type="number" style="height:60px;font-size:50px">
+                                    <input class="input-lg" id="input-quan-a" type="number" style="height:60px;font-size:50px;width:150px">
                                 </td>
                               </tr>
                               <tr>
@@ -41,9 +41,9 @@
                                         <h1>B</h1>
                                     </td>
                                     <td>
-                                        <input class="input-lg" id="input-size-b" type="number" style="height:60px;font-size:50px" onfocusout="calQuan()">                                 </td>
+                                        <input class="input-lg" id="input-size-b" type="number" style="height:60px;font-size:50px;width:150px" onfocusout="calQuan()">                                 </td>
                                     <td>
-                                        <input class="input-lg" id="input-quan-b" type="number" style="height:60px;font-size:50px">
+                                        <input class="input-lg" id="input-quan-b" type="number" style="height:60px;font-size:50px;width:150px">
                                     </td>
                                   </tr>
                             </tbody>
